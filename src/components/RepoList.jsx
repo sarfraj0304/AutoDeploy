@@ -34,9 +34,6 @@ const RepoList = () => {
 
   return (
     <Container maxW="2xl" py={3}>
-      <Container textAlign="center" fontSize="xl" my={3}>
-        Git Star
-      </Container>
       <Grid
         templateColumns={{
           sm: "repeat(1, 1fr)",
